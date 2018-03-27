@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 
 import com.bumptech.glide.Glide;
 
-import org.workai.everywhere.R;
+import org.deepeye.everywhere.R;
 
 import com.photoselector.model.PhotoModel;
 
